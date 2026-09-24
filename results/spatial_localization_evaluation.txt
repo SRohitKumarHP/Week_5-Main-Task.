@@ -1,0 +1,22 @@
+IMPROVED RESNET18 LOCALIZATION EVALUATION
+============================================================
+
+Test Images: 54
+
+CLASSIFICATION
+Accuracy: 100.00%
+Precision: 100.00%
+Recall: 100.00%
+F1 Score: 100.00%
+
+DEFECT TYPE
+Accuracy: 100.00%
+
+LOCALIZATION
+Mean IoU: 35.11%
+IoU >= 0.50: 33.33%
+
+COMPARISON
+Previous Mean IoU: 34.76%
+New Mean IoU: 35.11%
+Mean IoU Improvement: +0.35 percentage points

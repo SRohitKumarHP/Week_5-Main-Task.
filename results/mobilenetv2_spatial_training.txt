@@ -1,0 +1,105 @@
+MOBILENETV2 SPATIAL LOCALIZATION TRAINING RESULTS
+======================================================================
+
+Best Validation Loss: 0.0491
+
+Epoch 1
+Train Loss: 2.0918
+Val Loss: 2.0630
+Train Classification Accuracy: 82.94%
+Val Classification Accuracy: 83.33%
+Train Defect Accuracy: 30.00%
+Val Defect Accuracy: 33.33%
+Train BBox Loss: 0.0120
+Val BBox Loss: 0.0078
+
+Epoch 2
+Train Loss: 1.7453
+Val Loss: 1.6673
+Train Classification Accuracy: 83.33%
+Val Classification Accuracy: 83.33%
+Train Defect Accuracy: 78.57%
+Val Defect Accuracy: 82.22%
+Train BBox Loss: 0.0040
+Val BBox Loss: 0.0037
+
+Epoch 3
+Train Loss: 1.1023
+Val Loss: 0.7943
+Train Classification Accuracy: 83.33%
+Val Classification Accuracy: 83.33%
+Train Defect Accuracy: 91.43%
+Val Defect Accuracy: 88.89%
+Train BBox Loss: 0.0026
+Val BBox Loss: 0.0018
+
+Epoch 4
+Train Loss: 0.6007
+Val Loss: 0.3643
+Train Classification Accuracy: 91.27%
+Val Classification Accuracy: 85.19%
+Train Defect Accuracy: 93.33%
+Val Defect Accuracy: 100.00%
+Train BBox Loss: 0.0015
+Val BBox Loss: 0.0012
+
+Epoch 5
+Train Loss: 0.2695
+Val Loss: 0.2870
+Train Classification Accuracy: 98.81%
+Val Classification Accuracy: 98.15%
+Train Defect Accuracy: 98.57%
+Val Defect Accuracy: 95.56%
+Train BBox Loss: 0.0013
+Val BBox Loss: 0.0011
+
+Epoch 6
+Train Loss: 0.1600
+Val Loss: 0.1222
+Train Classification Accuracy: 100.00%
+Val Classification Accuracy: 100.00%
+Train Defect Accuracy: 99.05%
+Val Defect Accuracy: 100.00%
+Train BBox Loss: 0.0009
+Val BBox Loss: 0.0016
+
+Epoch 7
+Train Loss: 0.1147
+Val Loss: 0.2606
+Train Classification Accuracy: 100.00%
+Val Classification Accuracy: 100.00%
+Train Defect Accuracy: 98.57%
+Val Defect Accuracy: 93.33%
+Train BBox Loss: 0.0009
+Val BBox Loss: 0.0016
+
+Epoch 8
+Train Loss: 0.0713
+Val Loss: 0.0757
+Train Classification Accuracy: 100.00%
+Val Classification Accuracy: 100.00%
+Train Defect Accuracy: 100.00%
+Val Defect Accuracy: 100.00%
+Train BBox Loss: 0.0007
+Val BBox Loss: 0.0010
+
+Epoch 9
+Train Loss: 0.0366
+Val Loss: 0.0491
+Train Classification Accuracy: 100.00%
+Val Classification Accuracy: 100.00%
+Train Defect Accuracy: 100.00%
+Val Defect Accuracy: 100.00%
+Train BBox Loss: 0.0006
+Val BBox Loss: 0.0010
+
+Epoch 10
+Train Loss: 0.0284
+Val Loss: 0.0510
+Train Classification Accuracy: 100.00%
+Val Classification Accuracy: 100.00%
+Train Defect Accuracy: 100.00%
+Val Defect Accuracy: 100.00%
+Train BBox Loss: 0.0006
+Val BBox Loss: 0.0007
+

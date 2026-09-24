@@ -1,0 +1,51 @@
+MOBILENETV2 SPATIAL LOCALIZATION EVALUATION
+======================================================================
+
+CLASSIFICATION RESULTS
+Accuracy  : 100.00%
+Precision : 100.00%
+Recall    : 100.00%
+F1 Score  : 100.00%
+
+Confusion Matrix:
+[[45  0]
+ [ 0  9]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+   defective       1.00      1.00      1.00        45
+        good       1.00      1.00      1.00         9
+
+    accuracy                           1.00        54
+   macro avg       1.00      1.00      1.00        54
+weighted avg       1.00      1.00      1.00        54
+
+
+DEFECT TYPE RESULTS
+Defect Type Accuracy: 100.00%
+
+              precision    recall  f1-score   support
+
+     scratch       1.00      1.00      1.00         9
+        dent       1.00      1.00      1.00         9
+        rust       1.00      1.00      1.00         9
+       crack       1.00      1.00      1.00         9
+        hole       1.00      1.00      1.00         9
+
+    accuracy                           1.00        45
+   macro avg       1.00      1.00      1.00        45
+weighted avg       1.00      1.00      1.00        45
+
+
+BOUNDING BOX RESULTS
+Defective Images: 45
+Mean IoU: 0.5179 (51.79%)
+IoU >= 0.50: 51.11%
+
+Per-defect Mean IoU:
+scratch   : 0.3301
+dent      : 0.5483
+rust      : 0.5716
+crack     : 0.6372
+hole      : 0.5022

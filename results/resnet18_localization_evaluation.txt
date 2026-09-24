@@ -1,0 +1,29 @@
+RESNET18 LOCALIZATION EVALUATION
+============================================================
+
+Test Images: 54
+
+CLASSIFICATION
+Accuracy: 100.00%
+Precision: 100.00%
+Recall: 100.00%
+F1 Score: 100.00%
+
+DEFECT TYPE
+Accuracy: 100.00%
+
+              precision    recall  f1-score   support
+
+     scratch       1.00      1.00      1.00         9
+        dent       1.00      1.00      1.00         9
+        rust       1.00      1.00      1.00         9
+       crack       1.00      1.00      1.00         9
+        hole       1.00      1.00      1.00         9
+
+    accuracy                           1.00        45
+   macro avg       1.00      1.00      1.00        45
+weighted avg       1.00      1.00      1.00        45
+
+BOUNDING BOX LOCALIZATION
+Mean IoU: 0.3476
+IoU >= 0.50 Accuracy: 24.44%
