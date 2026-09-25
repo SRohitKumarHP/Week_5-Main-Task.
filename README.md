@@ -34,6 +34,8 @@ MetalDefectDetect/
 |--requirements.txt ---------------------> This txt file consists of all the required libraries.
 
 First, download the dataset.zip file to a folder and rename it to dataset. Check whether it follows the folder structure above.
+You can download the dataset from this drive link:
+https://drive.google.com/drive/folders/1hoZaZ-b-MF6aaHBUp9DOQ646bHanX2_Q?usp=sharing
 
 Download all the .py files into the src/ folder as given in the document structure.
 
