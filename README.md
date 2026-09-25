@@ -37,7 +37,7 @@ First, download the dataset.zip file to a folder and rename it to dataset. Check
 
 Download all the .py files into the src/ folder as given in the document structure.
 
-Make sure you download all folder of src/, input/, dataset/ in the MetalDefectDetection/ folder. stay in the location of this folder 
+Make sure you download all folders of src/, input/, dataset/ in the MetalDefectDetection/ folder. Stay in the location of this folder 
 Steps to run these:
   1. python -m venv venv
   2. venv\Scripts\activate
@@ -53,14 +53,19 @@ Steps to run these:
   12. python src\resnet18_localization_model.py
   13. python src\train_resnet18_localization.py
   14. python src\evaluate_resnet18_localization.py
-  15. python src/resnet18_spatial_localization.py
-  16. python src/train_resnet18_spatial_localization.py
-  17. python src/evaluate_resnet18_spatial_localization.py
-  18. python src/predict_resnet18_spatial.py
-  19. python src/mobilenetv2_model.py
-  20. python src/train_mobilenetv2.py
-  21. python src/evaluate_mobilenetv2.py
-  22. python src/mobilenetv2_localization_model.py
-  23. python src/train_mobilenetv2_spatial_localization.py
-  24. python src/evaluate_mobilenetv2_spatial_localization.py
-  25. python src/predict_mobilenetv2_spatial.py
+  15. python src\resnet18_spatial_localization.py
+  16. python src\train_resnet18_spatial_localization.py
+  17. python src\evaluate_resnet18_spatial_localization.py
+  18. python src\predict_resnet18_spatial.py
+  19. python src\mobilenetv2_model.py
+  20. python src\train_mobilenetv2.py
+  21. python src\evaluate_mobilenetv2.py
+  22. python src\mobilenetv2_localization_model.py
+  23. python src\train_mobilenetv2_spatial_localization.py
+  24. python src\evaluate_mobilenetv2_spatial_localization.py
+  25. python src\predict_mobilenetv2_spatial.py
+
+After completing these tasks, you can check the outputs in the output folder.
+
+############  Important Note ############
+(Note: To check the individual models, just run the file name followed by the file name as 'predict_'. Example: python src\predict_mobilenetv2_spatial.py (or) python src\predict_resnet18_spatial.py.)
